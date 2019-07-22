@@ -1,0 +1,7 @@
+Running: xsim.dir/I8051_TSB_behav/xsimk.exe -simmode gui -wdb I8051_TSB_behav.wdb -simrunnum 0 -socket 61012
+Design successfully loaded
+Design Loading Memory Usage: 5548 KB (Peak: 5548 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 6812 KB (Peak: 6812 KB)
+Simulation CPU Usage: 61 ms

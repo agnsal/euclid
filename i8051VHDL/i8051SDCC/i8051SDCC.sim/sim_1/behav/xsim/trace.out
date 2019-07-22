@@ -1,0 +1,6 @@
+NOP         
+LJMP        
+MOV 12      
+LCALL       
+MOV 12      
+RET         
