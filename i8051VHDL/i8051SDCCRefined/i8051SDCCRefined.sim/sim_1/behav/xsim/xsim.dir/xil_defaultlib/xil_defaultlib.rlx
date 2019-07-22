@@ -1,0 +1,14 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_all.vhd,980206882,vhdl,,,,i8051_all,,,,,,,,
+C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_alu.vhd,1059145234,vhdl,,,,i8051_alu,,,,,,,,
+C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_ctr.vhd,980206874,vhdl,,,,i8051_ctr,,,,,,,,
+C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_dbg.vhd,980206870,vhdl,,,,i8051_dbg,,,,,,,,
+C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_dec.vhd,980206866,vhdl,,,,i8051_dec,,,,,,,,
+C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_lib.vhd,980206862,vhdl,C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_all.vhd;C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_alu.vhd;C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_ctr.vhd;C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_dbg.vhd;C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_dec.vhd;C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_ram.vhd;C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_rom.vhd;C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_xrm.vhd,,,i8051_lib,,,,,,,,
+C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_ram.vhd,980206852,vhdl,,,,i8051_ram,,,,,,,,
+C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_rom.vhd,1563788672,vhdl,,,,i8051_rom,,,,,,,,
+C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_tsb.vhd,980206846,vhdl,,,,cfg_i8051_tsb;i8051_tsb,,,,,,,,
+C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_xrm.vhd,980206842,vhdl,,,,i8051_xrm,,,,,,,,

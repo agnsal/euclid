@@ -1,0 +1,19 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_lib.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_all.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'I8051_ALL'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_alu.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'I8051_ALU'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_ctr.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'I8051_CTR'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_dbg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'I8051_DBG'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_dec.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'I8051_DEC'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_ram.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'I8051_RAM'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_rom.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'I8051_ROM'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_xrm.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'I8051_XRM'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Agnese/Desktop/HOMELABS/1-Intel8051Microcontroller/workspaces/euclid/i8051VHDL/i8051SDCCRefined/model/i8051_tsb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'I8051_TSB'

@@ -1,0 +1,15 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../model/i8051_lib.vhd" \
+"../../../../model/i8051_all.vhd" \
+"../../../../model/i8051_alu.vhd" \
+"../../../../model/i8051_ctr.vhd" \
+"../../../../model/i8051_dbg.vhd" \
+"../../../../model/i8051_dec.vhd" \
+"../../../../model/i8051_ram.vhd" \
+"../../../../model/i8051_rom.vhd" \
+"../../../../model/i8051_xrm.vhd" \
+"../../../../model/i8051_tsb.vhd" \
+
+# Do not sort compile order
+nosort

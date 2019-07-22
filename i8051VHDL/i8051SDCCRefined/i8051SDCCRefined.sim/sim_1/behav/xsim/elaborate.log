@@ -1,0 +1,24 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 16c20ccd3184471ba95b3342d7d82217 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot I8051_TSB_behav xil_defaultlib.I8051_TSB -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package xil_defaultlib.i8051_lib
+Compiling architecture bhv of entity xil_defaultlib.I8051_ALU [i8051_alu_default]
+Compiling architecture dfl of entity xil_defaultlib.I8051_DEC [i8051_dec_default]
+Compiling architecture bhv of entity xil_defaultlib.I8051_RAM [i8051_ram_default]
+Compiling architecture bhv of entity xil_defaultlib.I8051_ROM [i8051_rom_default]
+Compiling architecture bhv of entity xil_defaultlib.I8051_CTR [i8051_ctr_default]
+Compiling architecture bhv of entity xil_defaultlib.I8051_DBG [i8051_dbg_default]
+Compiling architecture str of entity xil_defaultlib.I8051_ALL [i8051_all_default]
+Compiling architecture bhv of entity xil_defaultlib.I8051_XRM [i8051_xrm_default]
+Compiling architecture bhv of entity xil_defaultlib.i8051_tsb
+Built simulation snapshot I8051_TSB_behav
