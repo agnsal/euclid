@@ -1,0 +1,396 @@
+NOP         
+LJMP        
+MOV 7       
+CLR 1       
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 13      
+DJNZ 1      
+MOV 12      
+LJMP        
+MOV 7       
+MOV 12      
+MOV 7       
+LCALL       
+CLR 3       
+MOV 1       
+JNB         
+MOV 1       
+JNB         
+LCALL       
+CJNE 3      
+MOV 1       
+MOV 9       
+DIV         
+MOV 5       
+MOV 6       
+RET         
+JNB         
+RET         
+MOV 9       
+MOV 7       
+SJMP        
+LCALL       
+CLR 3       
+MOV 1       
+JNB         
+MOV 1       
+JNB         
+LCALL       
+CJNE 3      
+MOV 1       
+MOV 9       
+DIV         
+MOV 5       
+MOV 6       
+RET         
+JNB         
+RET         
+SJMP        
+MOV 1       
+ORL 1       
+JZ          
+MOV 9       
+MOV 10      
+MOV 9       
+MOV 6       
+MOV 9       
+MOV 6       
+LCALL       
+CLR 3       
+MOV 1       
+JNB         
+MOV 1       
+JNB         
+LCALL       
+CJNE 3      
+MOV 1       
+MOV 9       
+DIV         
+MOV 5       
+MOV 6       
+RET         
+JNB         
+RET         
+MOV 9       
+MOV 6       
+LCALL       
+CLR 3       
+MOV 1       
+JNB         
+MOV 1       
+JNB         
+LCALL       
+CJNE 3      
+MOV 1       
+MOV 9       
+DIV         
+MOV 5       
+MOV 6       
+RET         
+JNB         
+RET         
+SJMP        
+MOV 1       
+ORL 1       
+JZ          
+MOV 9       
+MOV 10      
+MOV 9       
+MOV 6       
+MOV 9       
+MOV 6       
+LCALL       
+CLR 3       
+MOV 1       
+JNB         
+MOV 1       
+JNB         
+LCALL       
+CJNE 3      
+MOV 1       
+MOV 9       
+DIV         
+MOV 5       
+MOV 6       
+RET         
+JNB         
+RET         
+MOV 9       
+MOV 6       
+LCALL       
+CLR 3       
+MOV 1       
+JNB         
+MOV 1       
+JNB         
+LCALL       
+CJNE 3      
+MOV 1       
+MOV 9       
+DIV         
+MOV 5       
+MOV 6       
+RET         
+JNB         
+RET         
+SJMP        
+MOV 1       
+ORL 1       
+JZ          
+MOV 9       
+MOV 10      
+MOV 9       
+CLR 1       
+MOV 8       
+SJMP        
