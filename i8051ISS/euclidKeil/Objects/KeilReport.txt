@@ -1,0 +1,1011 @@
+00000 - LJMP 
+	LJMP2287
+02287 - MOV 7
+	R0 <- 0x7F
+02289 - CLR 1
+	A <- 0x00
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02290 - MOV 13
+	RAM(R0) <- A
+02291 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 2290
+02293 - MOV 12
+	RAM(129) <- 0x09
+02296 - LJMP 
+	LJMP2187
+02187 - MOV 7
+	R3 <- 0x64
+02189 - MOV 12
+	RAM(130) <- 0x3C
+02192 - MOV 12
+	RAM(131) <- 0x00
+02195 - MOV 7
+	R7 <- 0x64
+02197 - MOV 7
+	R6 <- 0x00
+02199 - MOV 7
+	R5 <- 0x3C
+02201 - MOV 7
+	R4 <- 0x00
+02203 - LCALL
+	LCALL 2048
+02048 - CLR 3
+	RAM(336).5 <- 0
+02050 - MOV 1
+	A <- R4
+02051 - JNB
+	if( !RAM(352).7 ) JMP 2063
+02063 - MOV 1
+	A <- R6
+02064 - JNB
+	if( !RAM(352).7 ) JMP 2088
+02088 - LCALL
+	LCALL 2102
+02102 - CJNE 3
+	if( R4 != 0x00 ) JMP 2116
+	if( R4 < 0x00 ) C <- 1
+	else C <- 0
+02105 - CJNE 3
+	if( R6 != 0x00 ) JMP 2149
+	if( R6 < 0x00 ) C <- 1
+	else C <- 0
+02108 - MOV 1
+	A <- R7
+02109 - MOV 9
+	RAM(240) <- R5
+02111 - DIV
+	A <- A / B
+	B <- A % B
+02112 - MOV 5
+	R7 <- A
+02113 - MOV 6
+	R5 <- RAM(240)
+02115 - RET
+	RET 2091
+02091 - JNB
+	if( !RAM(336).5 ) JMP 2101
+02101 - RET
+	RET 2206
+02206 - MOV 9
+	RAM(8) <- R6
+02208 - MOV 9
+	RAM(9) <- R7
+02210 - MOV 7
+	R7 <- 0x64
+02212 - MOV 7
+	R6 <- 0x00
+02214 - MOV 7
+	R5 <- 0x3C
+02216 - MOV 7
+	R4 <- 0x00
+02218 - SJMP
+	SJMP 2261
+02261 - LCALL
+	LCALL 2048
+02048 - CLR 3
+	RAM(336).5 <- 0
+02050 - MOV 1
+	A <- R4
+02051 - JNB
+	if( !RAM(352).7 ) JMP 2063
+02063 - MOV 1
+	A <- R6
+02064 - JNB
+	if( !RAM(352).7 ) JMP 2088
+02088 - LCALL
+	LCALL 2102
+02102 - CJNE 3
+	if( R4 != 0x00 ) JMP 2116
+	if( R4 < 0x00 ) C <- 1
+	else C <- 0
+02105 - CJNE 3
+	if( R6 != 0x00 ) JMP 2149
+	if( R6 < 0x00 ) C <- 1
+	else C <- 0
+02108 - MOV 1
+	A <- R7
+02109 - MOV 9
+	RAM(240) <- R5
+02111 - DIV
+	A <- A / B
+	B <- A % B
+02112 - MOV 5
+	R7 <- A
+02113 - MOV 6
+	R5 <- RAM(240)
+02115 - RET
+	RET 2091
+02091 - JNB
+	if( !RAM(336).5 ) JMP 2101
+02101 - RET
+	RET 2264
+02264 - SJMP
+	SJMP 2220
+02220 - MOV 1
+	A <- R5
+02221 - ORL 1
+	A <- A | R4
+02222 - JZ
+	if( A == 0 ) JMP 2266
+02224 - MOV 9
+	RAM(128) <- R3
+02226 - MOV 10
+	RAM(4294967184) <- RAM(130)
+02229 - MOV 10
+	RAM(4294967200) <- RAM(9)
+02232 - MOV 9
+	RAM(176) <- R5
+02234 - MOV 6
+	R2 <- RAM(131)
+02236 - MOV 6
+	R3 <- RAM(130)
+02238 - MOV 9
+	RAM(131) <- R4
+02240 - MOV 9
+	RAM(130) <- R5
+02242 - MOV 6
+	R7 <- RAM(3)
+02244 - MOV 6
+	R6 <- RAM(2)
+02246 - LCALL
+	LCALL 2048
+02048 - CLR 3
+	RAM(336).5 <- 0
+02050 - MOV 1
+	A <- R4
+02051 - JNB
+	if( !RAM(352).7 ) JMP 2063
+02063 - MOV 1
+	A <- R6
+02064 - JNB
+	if( !RAM(352).7 ) JMP 2088
+02088 - LCALL
+	LCALL 2102
+02102 - CJNE 3
+	if( R4 != 0x00 ) JMP 2116
+	if( R4 < 0x00 ) C <- 1
+	else C <- 0
+02105 - CJNE 3
+	if( R6 != 0x00 ) JMP 2149
+	if( R6 < 0x00 ) C <- 1
+	else C <- 0
+02108 - MOV 1
+	A <- R7
+02109 - MOV 9
+	RAM(240) <- R5
+02111 - DIV
+	A <- A / B
+	B <- A % B
+02112 - MOV 5
+	R7 <- A
+02113 - MOV 6
+	R5 <- RAM(240)
+02115 - RET
+	RET 2091
+02091 - JNB
+	if( !RAM(336).5 ) JMP 2101
+02101 - RET
+	RET 2249
+02249 - MOV 9
+	RAM(8) <- R6
+02251 - MOV 9
+	RAM(9) <- R7
+02253 - MOV 6
+	R7 <- RAM(3)
+02255 - MOV 6
+	R6 <- RAM(2)
+02257 - MOV 6
+	R5 <- RAM(130)
+02259 - MOV 6
+	R4 <- RAM(131)
+02261 - LCALL
+	LCALL 2048
+02048 - CLR 3
+	RAM(336).5 <- 0
+02050 - MOV 1
+	A <- R4
+02051 - JNB
+	if( !RAM(352).7 ) JMP 2063
+02063 - MOV 1
+	A <- R6
+02064 - JNB
+	if( !RAM(352).7 ) JMP 2088
+02088 - LCALL
+	LCALL 2102
+02102 - CJNE 3
+	if( R4 != 0x00 ) JMP 2116
+	if( R4 < 0x00 ) C <- 1
+	else C <- 0
+02105 - CJNE 3
+	if( R6 != 0x00 ) JMP 2149
+	if( R6 < 0x00 ) C <- 1
+	else C <- 0
+02108 - MOV 1
+	A <- R7
+02109 - MOV 9
+	RAM(240) <- R5
+02111 - DIV
+	A <- A / B
+	B <- A % B
+02112 - MOV 5
+	R7 <- A
+02113 - MOV 6
+	R5 <- RAM(240)
+02115 - RET
+	RET 2091
+02091 - JNB
+	if( !RAM(336).5 ) JMP 2101
+02101 - RET
+	RET 2264
+02264 - SJMP
+	SJMP 2220
+02220 - MOV 1
+	A <- R5
+02221 - ORL 1
+	A <- A | R4
+02222 - JZ
+	if( A == 0 ) JMP 2266
+02224 - MOV 9
+	RAM(128) <- R3
+02226 - MOV 10
+	RAM(4294967184) <- RAM(130)
+02229 - MOV 10
+	RAM(4294967200) <- RAM(9)
+02232 - MOV 9
+	RAM(176) <- R5
+02234 - MOV 6
+	R2 <- RAM(131)
+02236 - MOV 6
+	R3 <- RAM(130)
+02238 - MOV 9
+	RAM(131) <- R4
+02240 - MOV 9
+	RAM(130) <- R5
+02242 - MOV 6
+	R7 <- RAM(3)
+02244 - MOV 6
+	R6 <- RAM(2)
+02246 - LCALL
+	LCALL 2048
+02048 - CLR 3
+	RAM(336).5 <- 0
+02050 - MOV 1
+	A <- R4
+02051 - JNB
+	if( !RAM(352).7 ) JMP 2063
+02063 - MOV 1
+	A <- R6
+02064 - JNB
+	if( !RAM(352).7 ) JMP 2088
+02088 - LCALL
+	LCALL 2102
+02102 - CJNE 3
+	if( R4 != 0x00 ) JMP 2116
+	if( R4 < 0x00 ) C <- 1
+	else C <- 0
+02105 - CJNE 3
+	if( R6 != 0x00 ) JMP 2149
+	if( R6 < 0x00 ) C <- 1
+	else C <- 0
+02108 - MOV 1
+	A <- R7
+02109 - MOV 9
+	RAM(240) <- R5
+02111 - DIV
+	A <- A / B
+	B <- A % B
+02112 - MOV 5
+	R7 <- A
+02113 - MOV 6
+	R5 <- RAM(240)
+02115 - RET
+	RET 2091
+02091 - JNB
+	if( !RAM(336).5 ) JMP 2101
+02101 - RET
+	RET 2249
+02249 - MOV 9
+	RAM(8) <- R6
+02251 - MOV 9
+	RAM(9) <- R7
+02253 - MOV 6
+	R7 <- RAM(3)
+02255 - MOV 6
+	R6 <- RAM(2)
+02257 - MOV 6
+	R5 <- RAM(130)
+02259 - MOV 6
+	R4 <- RAM(131)
+02261 - LCALL
+	LCALL 2048
+02048 - CLR 3
+	RAM(336).5 <- 0
+02050 - MOV 1
+	A <- R4
+02051 - JNB
+	if( !RAM(352).7 ) JMP 2063
+02063 - MOV 1
+	A <- R6
+02064 - JNB
+	if( !RAM(352).7 ) JMP 2088
+02088 - LCALL
+	LCALL 2102
+02102 - CJNE 3
+	if( R4 != 0x00 ) JMP 2116
+	if( R4 < 0x00 ) C <- 1
+	else C <- 0
+02105 - CJNE 3
+	if( R6 != 0x00 ) JMP 2149
+	if( R6 < 0x00 ) C <- 1
+	else C <- 0
+02108 - MOV 1
+	A <- R7
+02109 - MOV 9
+	RAM(240) <- R5
+02111 - DIV
+	A <- A / B
+	B <- A % B
+02112 - MOV 5
+	R7 <- A
+02113 - MOV 6
+	R5 <- RAM(240)
+02115 - RET
+	RET 2091
+02091 - JNB
+	if( !RAM(336).5 ) JMP 2101
+02101 - RET
+	RET 2264
+02264 - SJMP
+	SJMP 2220
+02220 - MOV 1
+	A <- R5
+02221 - ORL 1
+	A <- A | R4
+02222 - JZ
+	if( A == 0 ) JMP 2266
+02266 - MOV 9
+	RAM(128) <- R3
+02268 - MOV 10
+	RAM(4294967184) <- RAM(130)
+02271 - MOV 10
+	RAM(4294967200) <- RAM(9)
+02274 - MOV 9
+	RAM(176) <- R5
+02276 - CLR 1
+	A <- 0x00
+02277 - MOV 8
+	RAM(128) <- A
+02279 - MOV 8
+	RAM(144) <- A
+02281 - MOV 8
+	RAM(160) <- A

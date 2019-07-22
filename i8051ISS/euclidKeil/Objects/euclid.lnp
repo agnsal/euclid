@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\euclid.obj" 
+TO ".\Objects\euclid" 
+PRINT(".\Listings\euclid.m51")

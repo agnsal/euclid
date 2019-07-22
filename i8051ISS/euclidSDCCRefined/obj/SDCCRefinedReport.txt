@@ -1,0 +1,3006 @@
+00000 - LJMP 
+	LJMP6
+00006 - MOV 12
+	RAM(129) <- 0x09
+00009 - LCALL
+	LCALL 464
+00464 - MOV 12
+	RAM(130) <- 0x00
+00467 - RET
+	RET 12
+00012 - MOV 2
+	A <- RAM(130)
+00014 - JZ
+	if( A == 0 ) JMP 19
+00019 - MOV 7
+	R1 <- 0x00
+00021 - MOV 1
+	A <- R1
+00022 - ORL 4
+	A <- A | 0x00
+00024 - JZ
+	if( A == 0 ) JMP 53
+00053 - CLR 1
+	A <- 0x00
+00054 - MOV 7
+	R0 <- 0x7F
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00056 - MOV 13
+	RAM(R0) <- A
+00057 - DJNZ 1
+	R0--
+	if( R0 != 0 ) JMP 56
+00059 - MOV 7
+	R0 <- 0x00
+00061 - MOV 1
+	A <- R0
+00062 - ORL 4
+	A <- A | 0x00
+00064 - JZ
+	if( A == 0 ) JMP 76
+00076 - MOV 7
+	R0 <- 0x00
+00078 - MOV 1
+	A <- R0
+00079 - ORL 4
+	A <- A | 0x00
+00081 - JZ
+	if( A == 0 ) JMP 95
+00095 - LJMP 
+	LJMP3
+00003 - LJMP 
+	LJMP98
+00098 - MOV 7
+	R6 <- 0x64
+00100 - MOV 7
+	R7 <- 0x00
+00102 - MOV 7
+	R4 <- 0x3C
+00104 - MOV 7
+	R5 <- 0x00
+00106 - MOV 7
+	R2 <- 0x01
+00108 - MOV 7
+	R3 <- 0x00
+00110 - MOV 7
+	R0 <- 0x28
+00112 - MOV 7
+	R1 <- 0x00
+00114 - MOV 1
+	A <- R0
+00115 - ORL 1
+	A <- A | R1
+00116 - JZ
+	if( A == 0 ) JMP 214
+00118 - MOV 9
+	RAM(128) <- R6
+00120 - MOV 9
+	RAM(144) <- R4
+00122 - MOV 9
+	RAM(160) <- R2
+00124 - MOV 9
+	RAM(176) <- R0
+00126 - MOV 9
+	RAM(6) <- R4
+00128 - MOV 9
+	RAM(7) <- R5
+00130 - MOV 9
+	RAM(4) <- R0
+00132 - MOV 9
+	RAM(5) <- R1
+00134 - MOV 9
+	RAM(8) <- R0
+00136 - MOV 9
+	RAM(9) <- R1
+00138 - MOV 9
+	RAM(130) <- R6
+00140 - MOV 9
+	RAM(131) <- R7
+00142 - PUSH
+	PUSH RAM(7)
+00144 - PUSH
+	PUSH RAM(6)
+00146 - PUSH
+	PUSH RAM(5)
+00148 - PUSH
+	PUSH RAM(4)
+00150 - PUSH
+	PUSH RAM(1)
+00152 - PUSH
+	PUSH RAM(0)
+00154 - LCALL
+	LCALL 408
+00408 - CLR 3
+	RAM(336).5 <- 0
+00410 - MOV 2
+	A <- RAM(131)
+00412 - JNB
+	if( !RAM(352).7 ) JMP 428
+00428 - MOV 2
+	A <- RAM(9)
+00430 - JNB
+	if( !RAM(352).7 ) JMP 446
+00446 - LCALL
+	LCALL 313
+00313 - MOV 7
+	R2 <- 0x10
+00315 - CLR 1
+	A <- 0x00
+00316 - MOV 5
+	R3 <- A
+00317 - MOV 5
+	R4 <- A
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x3C
+	B = 0x3C
+	A + B = 0x78
+1 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0xD8
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x78
+	B = 0x78
+	A + B = 0xF0
+1 1 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0xD8
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0xF0
+	B = 0xF0
+	A + B = 0xE0
+0 1 1
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0xD8
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0xE0
+	B = 0xE0
+	A + B = 0xC0
+0 1 1
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0xD8
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0xC0
+	B = 0xC0
+	A + B = 0x80
+0 1 1
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0xD8
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x80
+	B = 0x80
+	A + B = 0x00
+0 0 1
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0xD8
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0xD8
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0xD8
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0xD8
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0xD8
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x01
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0xD9
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x03
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0xDB
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x07
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0xDF
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x0F
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0xE7
+0 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x1E
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0xF6
+0 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x3C
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0x14
+0 0 0
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x00
+	A - (B + C)= 0x00
+0 0 0
+00343 - JC
+	if( C ) JMP 351
+00345 - MOV 5
+	R4 <- A
+00346 - MOV 6
+	R3 <- RAM(240)
+00348 - ORL 6
+	RAM(130) <- RAM(130 | 0x01
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00353 - RET
+	RET 449
+00449 - JNB
+	if( !RAM(336).5 ) JMP 463
+00463 - RET
+	RET 157
+00157 - MOV 6
+	R2 <- RAM(130)
+00159 - MOV 6
+	R3 <- RAM(131)
+00161 - POP
+	POP RAM(0)
+00163 - POP
+	POP RAM(1)
+00165 - POP
+	POP RAM(4)
+00167 - POP
+	POP RAM(5)
+00169 - POP
+	POP RAM(6)
+00171 - POP
+	POP RAM(7)
+00173 - MOV 9
+	RAM(8) <- R0
+00175 - MOV 9
+	RAM(9) <- R1
+00177 - MOV 9
+	RAM(130) <- R6
+00179 - MOV 9
+	RAM(131) <- R7
+00181 - PUSH
+	PUSH RAM(7)
+00183 - PUSH
+	PUSH RAM(6)
+00185 - PUSH
+	PUSH RAM(5)
+00187 - PUSH
+	PUSH RAM(4)
+00189 - PUSH
+	PUSH RAM(3)
+00191 - PUSH
+	PUSH RAM(2)
+00193 - LCALL
+	LCALL 354
+00354 - CLR 3
+	RAM(336).5 <- 0
+00356 - MOV 2
+	A <- RAM(131)
+00358 - JNB
+	if( !RAM(352).7 ) JMP 374
+00374 - MOV 2
+	A <- RAM(9)
+00376 - JNB
+	if( !RAM(352).7 ) JMP 390
+00390 - LCALL
+	LCALL 236
+00236 - MOV 2
+	A <- RAM(8)
+00238 - ORL 2
+	A <- A | RAM(9)
+00240 - JZ
+	if( A == 0 ) JMP 312
+00242 - MOV 7
+	R2 <- 0x01
+00244 - MOV 2
+	A <- RAM(8)
+00246 - ADD 2
+	A <- A + RAM(224)
+	A = 0x28
+	B = 0x28
+	A + B = 0x50
+1 0 0
+00248 - MOV 8
+	RAM(8) <- A
+00250 - MOV 2
+	A <- RAM(9)
+00252 - RLC
+	RLC A
+00253 - JC
+	if( C ) JMP 273
+00255 - MOV 8
+	RAM(9) <- A
+00257 - MOV 2
+	A <- RAM(130)
+00259 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x3C
+	B = 0x50
+	C = 0x00
+	A - (B + C)= 0xEC
+0 1 1
+00261 - MOV 2
+	A <- RAM(131)
+00263 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00265 - JC
+	if( C ) JMP 270
+00270 - CLR 2
+	C <- 0
+00271 - MOV 2
+	A <- RAM(9)
+00273 - RRC
+	RRC A
+00274 - MOV 8
+	RAM(9) <- A
+00276 - MOV 2
+	A <- RAM(8)
+00278 - RRC
+	RRC A
+00279 - MOV 8
+	RAM(8) <- A
+00281 - CLR 2
+	C <- 0
+00282 - MOV 2
+	A <- RAM(130)
+00284 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x3C
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0x14
+0 0 0
+00286 - MOV 8
+	RAM(240) <- A
+00288 - MOV 2
+	A <- RAM(131)
+00290 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x00
+	A - (B + C)= 0x00
+0 0 0
+00292 - JC
+	if( C ) JMP 299
+00294 - MOV 8
+	RAM(131) <- A
+00296 - MOV 10
+	RAM(4294967170) <- RAM(240)
+00299 - CLR 2
+	C <- 0
+00300 - MOV 2
+	A <- RAM(9)
+00302 - RRC
+	RRC A
+00303 - MOV 8
+	RAM(9) <- A
+00305 - MOV 2
+	A <- RAM(8)
+00307 - RRC
+	RRC A
+00308 - MOV 8
+	RAM(8) <- A
+00310 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 281
+00312 - RET
+	RET 393
+00393 - JNB
+	if( !RAM(336).5 ) JMP 407
+00407 - RET
+	RET 196
+00196 - MOV 6
+	R0 <- RAM(130)
+00198 - MOV 6
+	R1 <- RAM(131)
+00200 - POP
+	POP RAM(2)
+00202 - POP
+	POP RAM(3)
+00204 - POP
+	POP RAM(4)
+00206 - POP
+	POP RAM(5)
+00208 - POP
+	POP RAM(6)
+00210 - POP
+	POP RAM(7)
+00212 - SJMP
+	SJMP 114
+00114 - MOV 1
+	A <- R0
+00115 - ORL 1
+	A <- A | R1
+00116 - JZ
+	if( A == 0 ) JMP 214
+00118 - MOV 9
+	RAM(128) <- R6
+00120 - MOV 9
+	RAM(144) <- R4
+00122 - MOV 9
+	RAM(160) <- R2
+00124 - MOV 9
+	RAM(176) <- R0
+00126 - MOV 9
+	RAM(6) <- R4
+00128 - MOV 9
+	RAM(7) <- R5
+00130 - MOV 9
+	RAM(4) <- R0
+00132 - MOV 9
+	RAM(5) <- R1
+00134 - MOV 9
+	RAM(8) <- R0
+00136 - MOV 9
+	RAM(9) <- R1
+00138 - MOV 9
+	RAM(130) <- R6
+00140 - MOV 9
+	RAM(131) <- R7
+00142 - PUSH
+	PUSH RAM(7)
+00144 - PUSH
+	PUSH RAM(6)
+00146 - PUSH
+	PUSH RAM(5)
+00148 - PUSH
+	PUSH RAM(4)
+00150 - PUSH
+	PUSH RAM(1)
+00152 - PUSH
+	PUSH RAM(0)
+00154 - LCALL
+	LCALL 408
+00408 - CLR 3
+	RAM(336).5 <- 0
+00410 - MOV 2
+	A <- RAM(131)
+00412 - JNB
+	if( !RAM(352).7 ) JMP 428
+00428 - MOV 2
+	A <- RAM(9)
+00430 - JNB
+	if( !RAM(352).7 ) JMP 446
+00446 - LCALL
+	LCALL 313
+00313 - MOV 7
+	R2 <- 0x10
+00315 - CLR 1
+	A <- 0x00
+00316 - MOV 5
+	R3 <- A
+00317 - MOV 5
+	R4 <- A
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x28
+	B = 0x28
+	A + B = 0x50
+1 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xEC
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x50
+	B = 0x50
+	A + B = 0xA0
+0 1 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xEC
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0xA0
+	B = 0xA0
+	A + B = 0x40
+0 0 1
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xEC
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x40
+	B = 0x40
+	A + B = 0x80
+0 1 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xEC
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x80
+	B = 0x80
+	A + B = 0x00
+0 0 1
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xEC
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xEC
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xEC
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xEC
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xEC
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xEC
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x01
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xED
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x02
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xEE
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x05
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xF1
+0 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x0A
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xF6
+0 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x00
+	B = 0x00
+	A + B = 0x00
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x14
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0x00
+0 0 0
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x00
+	A - (B + C)= 0x00
+0 0 0
+00343 - JC
+	if( C ) JMP 351
+00345 - MOV 5
+	R4 <- A
+00346 - MOV 6
+	R3 <- RAM(240)
+00348 - ORL 6
+	RAM(130) <- RAM(130 | 0x01
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00318 - MOV 2
+	A <- RAM(130)
+00320 - ADD 2
+	A <- A + RAM(224)
+	A = 0x01
+	B = 0x01
+	A + B = 0x02
+0 0 0
+00322 - MOV 8
+	RAM(130) <- A
+00324 - MOV 2
+	A <- RAM(131)
+00326 - RLC
+	RLC A
+00327 - MOV 8
+	RAM(131) <- A
+00329 - MOV 1
+	A <- R3
+00330 - RLC
+	RLC A
+00331 - MOV 5
+	R3 <- A
+00332 - MOV 1
+	A <- R4
+00333 - RLC
+	RLC A
+00334 - MOV 5
+	R4 <- A
+00335 - MOV 1
+	A <- R3
+00336 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xEC
+1 1 1
+00338 - MOV 8
+	RAM(240) <- A
+00340 - MOV 1
+	A <- R4
+00341 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00343 - JC
+	if( C ) JMP 351
+00351 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 318
+00353 - RET
+	RET 449
+00449 - JNB
+	if( !RAM(336).5 ) JMP 463
+00463 - RET
+	RET 157
+00157 - MOV 6
+	R2 <- RAM(130)
+00159 - MOV 6
+	R3 <- RAM(131)
+00161 - POP
+	POP RAM(0)
+00163 - POP
+	POP RAM(1)
+00165 - POP
+	POP RAM(4)
+00167 - POP
+	POP RAM(5)
+00169 - POP
+	POP RAM(6)
+00171 - POP
+	POP RAM(7)
+00173 - MOV 9
+	RAM(8) <- R0
+00175 - MOV 9
+	RAM(9) <- R1
+00177 - MOV 9
+	RAM(130) <- R6
+00179 - MOV 9
+	RAM(131) <- R7
+00181 - PUSH
+	PUSH RAM(7)
+00183 - PUSH
+	PUSH RAM(6)
+00185 - PUSH
+	PUSH RAM(5)
+00187 - PUSH
+	PUSH RAM(4)
+00189 - PUSH
+	PUSH RAM(3)
+00191 - PUSH
+	PUSH RAM(2)
+00193 - LCALL
+	LCALL 354
+00354 - CLR 3
+	RAM(336).5 <- 0
+00356 - MOV 2
+	A <- RAM(131)
+00358 - JNB
+	if( !RAM(352).7 ) JMP 374
+00374 - MOV 2
+	A <- RAM(9)
+00376 - JNB
+	if( !RAM(352).7 ) JMP 390
+00390 - LCALL
+	LCALL 236
+00236 - MOV 2
+	A <- RAM(8)
+00238 - ORL 2
+	A <- A | RAM(9)
+00240 - JZ
+	if( A == 0 ) JMP 312
+00242 - MOV 7
+	R2 <- 0x01
+00244 - MOV 2
+	A <- RAM(8)
+00246 - ADD 2
+	A <- A + RAM(224)
+	A = 0x14
+	B = 0x14
+	A + B = 0x28
+0 0 0
+00248 - MOV 8
+	RAM(8) <- A
+00250 - MOV 2
+	A <- RAM(9)
+00252 - RLC
+	RLC A
+00253 - JC
+	if( C ) JMP 273
+00255 - MOV 8
+	RAM(9) <- A
+00257 - MOV 2
+	A <- RAM(130)
+00259 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x28
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0x00
+0 0 0
+00261 - MOV 2
+	A <- RAM(131)
+00263 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x00
+	A - (B + C)= 0x00
+0 0 0
+00265 - JC
+	if( C ) JMP 270
+00267 - INC 2
+	R2++
+00268 - SJMP
+	SJMP 244
+00244 - MOV 2
+	A <- RAM(8)
+00246 - ADD 2
+	A <- A + RAM(224)
+	A = 0x28
+	B = 0x28
+	A + B = 0x50
+1 0 0
+00248 - MOV 8
+	RAM(8) <- A
+00250 - MOV 2
+	A <- RAM(9)
+00252 - RLC
+	RLC A
+00253 - JC
+	if( C ) JMP 273
+00255 - MOV 8
+	RAM(9) <- A
+00257 - MOV 2
+	A <- RAM(130)
+00259 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x28
+	B = 0x50
+	C = 0x00
+	A - (B + C)= 0xD8
+0 1 1
+00261 - MOV 2
+	A <- RAM(131)
+00263 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00265 - JC
+	if( C ) JMP 270
+00270 - CLR 2
+	C <- 0
+00271 - MOV 2
+	A <- RAM(9)
+00273 - RRC
+	RRC A
+00274 - MOV 8
+	RAM(9) <- A
+00276 - MOV 2
+	A <- RAM(8)
+00278 - RRC
+	RRC A
+00279 - MOV 8
+	RAM(8) <- A
+00281 - CLR 2
+	C <- 0
+00282 - MOV 2
+	A <- RAM(130)
+00284 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x28
+	B = 0x28
+	C = 0x00
+	A - (B + C)= 0x00
+0 0 0
+00286 - MOV 8
+	RAM(240) <- A
+00288 - MOV 2
+	A <- RAM(131)
+00290 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x00
+	A - (B + C)= 0x00
+0 0 0
+00292 - JC
+	if( C ) JMP 299
+00294 - MOV 8
+	RAM(131) <- A
+00296 - MOV 10
+	RAM(4294967170) <- RAM(240)
+00299 - CLR 2
+	C <- 0
+00300 - MOV 2
+	A <- RAM(9)
+00302 - RRC
+	RRC A
+00303 - MOV 8
+	RAM(9) <- A
+00305 - MOV 2
+	A <- RAM(8)
+00307 - RRC
+	RRC A
+00308 - MOV 8
+	RAM(8) <- A
+00310 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 281
+00281 - CLR 2
+	C <- 0
+00282 - MOV 2
+	A <- RAM(130)
+00284 - SUBB 2
+	A <- A - RAM(8) - C
+	A = 0x00
+	B = 0x14
+	C = 0x00
+	A - (B + C)= 0xEC
+1 1 1
+00286 - MOV 8
+	RAM(240) <- A
+00288 - MOV 2
+	A <- RAM(131)
+00290 - SUBB 2
+	A <- A - RAM(9) - C
+	A = 0x00
+	B = 0x00
+	C = 0x01
+	A - (B + C)= 0xFF
+1 1 1
+00292 - JC
+	if( C ) JMP 299
+00299 - CLR 2
+	C <- 0
+00300 - MOV 2
+	A <- RAM(9)
+00302 - RRC
+	RRC A
+00303 - MOV 8
+	RAM(9) <- A
+00305 - MOV 2
+	A <- RAM(8)
+00307 - RRC
+	RRC A
+00308 - MOV 8
+	RAM(8) <- A
+00310 - DJNZ 1
+	R2--
+	if( R2 != 0 ) JMP 281
+00312 - RET
+	RET 393
+00393 - JNB
+	if( !RAM(336).5 ) JMP 407
+00407 - RET
+	RET 196
+00196 - MOV 6
+	R0 <- RAM(130)
+00198 - MOV 6
+	R1 <- RAM(131)
+00200 - POP
+	POP RAM(2)
+00202 - POP
+	POP RAM(3)
+00204 - POP
+	POP RAM(4)
+00206 - POP
+	POP RAM(5)
+00208 - POP
+	POP RAM(6)
+00210 - POP
+	POP RAM(7)
+00212 - SJMP
+	SJMP 114
+00114 - MOV 1
+	A <- R0
+00115 - ORL 1
+	A <- A | R1
+00116 - JZ
+	if( A == 0 ) JMP 214
+00214 - MOV 9
+	RAM(128) <- R6
+00216 - MOV 9
+	RAM(144) <- R4
+00218 - MOV 9
+	RAM(160) <- R2
+00220 - MOV 9
+	RAM(176) <- R0
+00222 - MOV 12
+	RAM(128) <- 0x00
+00225 - MOV 12
+	RAM(144) <- 0x00
+00228 - MOV 12
+	RAM(160) <- 0x00
